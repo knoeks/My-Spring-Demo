@@ -1,5 +1,5 @@
 # Spring-security-demo
-A simple API that lets a person to register to register on endpoint with Spring Security.
+A simple API that lets a person to register on endpoint with Spring Security to a simple book store website.
 
 In addition there is DTO for Books, DTO for pagination.
 
